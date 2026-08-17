@@ -1,0 +1,7 @@
+# Ignore all .exe files
+*.exe
+
+# Ignore VS Code specific system folders (optional but recommended)
+.vscode/
+*.o
+*.out
